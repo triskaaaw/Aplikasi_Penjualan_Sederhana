@@ -14,4 +14,10 @@
     <string name="tvJumlahKembalian">Jumlah Kembalian</string>
     <string name="tvJumlahKembalian2">0</string>
     <string name="btnHapus">HAPUS</string>
+
+    <string name="judul2">Aplikasi Penjualan Sederhana</string>
+    <string name="tvpengantar">Selamat datang pada aplikasi penjualan sederhana!</string>
+    <string name="etUsername">Input Username</string>
+    <string name="etPassword">Input Password</string>
+    <string name="btnMasuk">masuk</string>
 </resources>

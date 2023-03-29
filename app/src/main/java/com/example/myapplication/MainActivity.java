@@ -19,17 +19,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        etnama = (EditText) findViewById(R.id.et_namabarang);
-        etharga = (EditText) findViewById(R.id.et_hargabarang);
-        etjumlah = (EditText) findViewById(R.id.et_jumlahbarang);
-        etbayar = (EditText) findViewById(R.id.et_bayar);
+        etnama = findViewById(R.id.et_namabarang);
+        etharga = findViewById(R.id.et_hargabarang);
+        etjumlah = findViewById(R.id.et_jumlahbarang);
+        etbayar = findViewById(R.id.et_bayar);
 
-        bttotal = (Button) findViewById(R.id.btn_total);
-        bthasil = (Button) findViewById(R.id.btn_hasil);
-        bthapus = (Button) findViewById(R.id.btn_hapus);
+        bttotal = findViewById(R.id.btn_total);
+        bthasil = findViewById(R.id.btn_hasil);
+        bthapus = findViewById(R.id.btn_hapus);
 
-        tvtotal = (TextView) findViewById(R.id.tv_hasil);
-        tvkembalian = (TextView) findViewById(R.id.tv_kembalian2);
+        tvtotal = findViewById(R.id.tv_hasil);
+        tvkembalian = findViewById(R.id.tv_kembalian2);
 
         bttotal.setOnClickListener(new View.OnClickListener() {
             @Override

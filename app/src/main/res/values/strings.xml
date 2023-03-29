@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TriskaWidiantari</string>
+    <string name="judul">Aplikasi Penjualan Sederhana</string>
+    <string name="tvNamaBarang">Nama Barang</string>
+    <string name="etNamaBarang">Input Nama Barang</string>
+    <string name="tvHargaBarang">Harga Barang</string>
+    <string name="etHargaBarang">Input Harga Barang</string>
+    <string name="tvJumlahBarang">Jumlah Barang</string>
+    <string name="etJumlahBarang">Input Jumlah Barang</string>
+    <string name="btnTotal">TOTAL</string>
+    <string name="tvTotalBayar">Total Bayar</string>
+    <string name="etTotalBayar">Input Jumlah Bayar</string>
+    <string name="btnHasil">HASIL</string>
+    <string name="tvJumlahKembalian">Jumlah Kembalian</string>
+    <string name="tvJumlahKembalian2">0</string>
+    <string name="btnHapus">HAPUS</string>
+</resources>
